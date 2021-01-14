@@ -3,4 +3,4 @@ PRODUCT_BUNDLE_IDENTIFIER = $(BUNDLE_IDENTIFIER)$(BUNDLE_IDENTIFIER_APPEND)
 BUNDLE_DISPLAY_NAME = mApp
 BUNDLE_IDENTIFIER = com.mapp.mobile
 
-RUNTIME_URL = http:\/\/localhost:8080
+RUNTIME_URL = http:\/\/localhost:8080/index.html?profile=Responsive
